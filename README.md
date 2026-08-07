@@ -19,6 +19,7 @@ Aspiring Full Stack Web Developer | Information Science Engineering Student
 - 🎓Information Science Engineering Student
 - 🌱 Currently learning Java Full Stack Web Development
 - 💻 Passionate about Frontend and Full Stack Development
+- 📫 Open to Internship and Full-Time Opportunities
 - 🚀 Building modern and responsive web applications
 - 📍 Ballari, Karnataka, India
 ---
@@ -59,11 +60,8 @@ Aspiring Full Stack Web Developer | Information Science Engineering Student
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SohebAkthar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohebAkthar&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SohebAkthar&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohebAkthar&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ## 🔥 GitHub Streak
