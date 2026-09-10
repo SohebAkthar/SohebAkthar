@@ -53,8 +53,6 @@ Aspiring Full Stack Web Developer | Information Science Engineering Student
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ---
 
 ## 🔥 GitHub Streak
