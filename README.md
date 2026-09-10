@@ -92,3 +92,118 @@ and aspiring Java Full Stack Developer.
 </p>
 
 ---
+
+---
+
+## 🚀 Featured Projects
+
+### 👗 StyleHub
+
+**Responsive Fashion E-Commerce Website**
+
+A modern fashion e-commerce website focused on responsive design,
+clean UI and an engaging shopping experience.
+
+**Technologies:**  
+`HTML5` `CSS3` `JavaScript`
+
+**Key Features:**
+- 📱 Responsive design
+- 🎨 Modern UI
+- 👗 Fashion product sections
+- 🧭 User-friendly navigation
+- ✨ Clean and responsive layout
+
+🔗 **Repository:**  
+https://github.com/SohebAkthar/StyleHub
+
+---
+
+### ✅ TaskFlow
+
+**Task Management System**
+
+A modern task management application designed to help users create,
+organize and track their tasks efficiently.
+
+**Technologies:**  
+`React` `JavaScript` `HTML5` `CSS3`
+
+**Key Features:**
+- ➕ Create tasks
+- ✏️ Edit tasks
+- 🗑️ Delete tasks
+- ✅ Complete and undo tasks
+- 💾 Local Storage
+- 📊 Task tracking
+- 📱 Responsive UI
+
+🔗 **Repository:**  
+https://github.com/SohebAkthar/TaskFlow
+
+---
+
+### 💰 Finance Tracker
+
+**Personal Finance Management Application**
+
+An application for managing personal financial activities and
+tracking income and expenses.
+
+**Technologies:**  
+`JavaScript` `HTML5` `CSS3`
+
+**Key Features:**
+- 💰 Income tracking
+- 💸 Expense tracking
+- 📊 Financial overview
+- 🧾 Transaction management
+- 📱 Responsive interface
+
+🔗 **Repository:**  
+https://github.com/SohebAkthar/finance-tracker
+
+---
+
+### 🌐 Soheb Portfolio
+
+**Personal Developer Portfolio**
+
+A professional portfolio website showcasing my skills, projects,
+experience and development journey.
+
+**Technologies:**  
+`HTML5` `CSS3` `JavaScript`
+
+**Key Features:**
+- 👨‍💻 Developer introduction
+- 🛠️ Skills showcase
+- 🚀 Project portfolio
+- 📱 Responsive design
+- 📫 Contact section
+
+🔗 **Repository:**  
+https://github.com/SohebAkthar/soheb-portfolio
+
+---
+
+### ♿ Abilify
+
+**Accessibility-Focused Web Project**
+
+A web project focused on creating a more accessible and
+user-friendly digital experience.
+
+**Technologies:**  
+`HTML5` `CSS3` `JavaScript`
+
+**Key Features:**
+- ♿ Accessibility-focused design
+- 📱 Responsive interface
+- 🎨 User-friendly UI
+- 🌐 Web technologies
+
+🔗 **Repository:**  
+https://github.com/SohebAkthar/abilify
+
+---
