@@ -13,3 +13,38 @@
 <p align="center">
   <b>Java Full Stack Developer | Information Science & Engineering</b>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **K MD Soheb Akthar**, an Information Science & Engineering graduate
+and aspiring Java Full Stack Developer.
+
+- 🎓 Information Science & Engineering Graduate
+- ☕ Currently learning Java Full Stack Development
+- 💻 Interested in Backend & Full Stack Development
+- 🌐 Building modern and responsive web applications
+- 🗄️ Working with MySQL and database technologies
+- 🔧 Using Git and GitHub for version control
+- 🚀 Building real-world projects to strengthen my development skills
+- 💼 Open to Internship and Full-Time Opportunities
+- 📍 Ballari, Karnataka, India
+
+---
+
+## 📊 Developer Metrics
+
+| Metric | Details |
+|---|---|
+| 🎓 Education | Information Science & Engineering |
+| 💻 Primary Focus | Java Full Stack Development |
+| ☕ Backend | Java |
+| 🌐 Frontend | HTML • CSS • JavaScript • React |
+| 🗄️ Database | MySQL |
+| 🔧 Version Control | Git • GitHub |
+| 🛠️ Development Tool | VS Code • Eclipse |
+| 📍 Location | Ballari, Karnataka, India |
+| 💼 Availability | Open to Internship & Full-Time Opportunities |
+
+---
