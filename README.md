@@ -210,20 +210,32 @@ https://github.com/SohebAkthar/abilify
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <i>Turning consistent contributions into continuous growth 🚀</i>
+</p>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/SohebAkthar/SohebAkthar/blob/gh-pages/github-contribution-grid-snake-dark.svg">
+      srcset="https://github.com/SohebAkthar/SohebAkthar/blob/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/SohebAkthar/SohebAkthar/blob/gh-pages/github-contribution-grid-snake.svg">
+      srcset="https://github.com/SohebAkthar/SohebAkthar/blob/gh-pages/github-contribution-grid-snake.svg"
+    />
     <img
+      src="https://github.com/SohebAkthar/SohebAkthar/blob/gh-pages/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
-      src="https://github.com/SohebAkthar/SohebAkthar/blob/gh-pages/github-contribution-grid-snake.svg">
+      width="100%"
+    />
   </picture>
+</p>
+
+<p align="center">
+  <b>💻 Code • 🚀 Build • 📚 Learn • 🔄 Improve</b>
 </p>
 
 ---
