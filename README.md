@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm K MD Soheb Akthar</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:16A34A&height=230&section=header&text=K%20MD%20SOHEB%20AKTHAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Information+Science+%26+Engineering+Graduate;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
@@ -239,3 +244,60 @@ https://github.com/SohebAkthar/abilify
 </p>
 
 ---
+
+---
+
+<h2 align="center">📬 Get In Touch</h2>
+
+<p align="center">
+  Let's connect, collaborate, and build something amazing together! 🚀
+</p>
+
+<p>
+  💼 <b>LinkedIn:</b>
+  <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
+    K MD Soheb Akthar
+  </a>
+</p>
+
+<p>
+  💻 <b>GitHub:</b>
+  <a href="https://github.com/SohebAkthar" target="_blank" rel="noopener noreferrer">
+    SohebAkthar
+  </a>
+</p>
+
+<p>
+  📧 <b>Email:</b>
+  <a href="mailto:YOUR_EMAIL">
+    YOUR_EMAIL
+  </a>
+</p>
+
+<p>
+  📱 <b>Phone:</b>
+  <a href="tel:+918050021736">
+    +91 80500 21736
+  </a>
+</p>
+
+<p>
+  📍 <b>Location:</b> Ballari, Karnataka, India
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Keep Learning • Keep Building • Keep Growing</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:16A34A&height=120&section=footer&animation=fadeIn"
+    width="100%"
+  />
+</p>
