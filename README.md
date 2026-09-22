@@ -192,6 +192,28 @@ https://github.com/SohebAkthar/soheb-portfolio
 
 ---
 
+## 🚀 Employee Management System
+
+A full-stack Employee Management System built using **Java 21, Spring Boot, React.js, and MySQL**.
+
+### Features
+- Add, view, update, and delete employees
+- Search employees by name
+- Employee dashboard
+- RESTful APIs
+- MySQL database integration
+- Responsive React.js interface
+
+### Tech Stack
+**Backend:** Java 21, Spring Boot, Spring Data JPA, Hibernate, Maven  
+**Frontend:** React.js, JavaScript, HTML5, CSS3, Vite  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, MySQL Workbench
+
+🔗 **Project:** [Employee Management System](https://github.com/SohebAkthar/employee-management-system)
+
+---
+
 ### ♿ Abilify
 
 **Accessibility-Focused Web Project**
